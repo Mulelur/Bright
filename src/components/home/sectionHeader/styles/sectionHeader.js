@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import bg from "../../../../assets/Bright  Mokoena.jpeg";
+import bg from "../../../../assets/BrightMokoena_1.jpeg";
 import { textColor, textColor1 } from "../../../../colors/colors";
 
 export const Section = styled.section``;

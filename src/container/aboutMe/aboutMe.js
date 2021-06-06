@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../../assets/Bright  Mokoena.jpeg";
+import img from "../../assets/BrightMokoena.jpeg";
 import { AboutMe } from "../../components";
 import { DownloadCVButton } from "../../components/buttons";
 import cv from "../../assets/cv/mokoena_cv.pdf";
